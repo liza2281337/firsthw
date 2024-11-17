@@ -6,7 +6,7 @@ unsigned str_len(char* str) {
     while (str[length] != '\0') {
         length++;
     }
-
+ 
     return length;
 }
 
