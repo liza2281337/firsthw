@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+ 
 unsigned str_len(char* str) {
     unsigned length = 0;
 
